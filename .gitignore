@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Generated folders
+dblp_output/
+results/
+visualizations/
+community_viz/
+
+# Ignore generated images
+*.png
+# Large datasets
+*.xml.gz
+*.xml
